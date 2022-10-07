@@ -1,0 +1,22 @@
+name: Build JoshInBrackets.com
+on:
+  push:
+    branches: [ main ]
+  # pull_request:
+  #   branches: [ main ]
+
+jobs:
+  build-site:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: Bogdanp/setup-racket@v1.8.1
+        with:
+          architecture: 'x64'
+          distribution: 'full'
+          variant: 'CS'
+          version: '8.5'
+      # - run: raco pkg install --auto component koyo
+      - run: scribble --dest output ++style custom.css index.scrbl
+      # - run: TODO, upload
