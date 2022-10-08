@@ -1,14 +1,15 @@
 #lang scribble/manual
 
-@title{{[Josh]}}
+@(require "main.rkt")
 
-Hi, I'm Josh (Zhuo Shi). I was born in 2015. I am pupil now, but my
+@title{(string #\J #\o #\s #\h)}
+
+Hi, I'm Josh (Zhuo Shi). I was born in 2015. I am a pupil now, but my
 dad and myself don't see me just as a little boy and don't put any
 restriction upon my learning, so we have learned a lot of things
 together.
 
-@hyperlink["https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/josh-2022.jpg"]{Here's
-a photo of mine.}
+@jib-image[300]{img-kdr2-com/main/josh-2022.jpg}
 
 I am:
 
@@ -22,8 +23,7 @@ polyglot someday.}
 
 @item{An amateur real cuber - I had collected all the cubes used in
 WCA events (actually, much more than that) and got the ability to
-solve all of them. But I don't do blindfolded puzzles and FMC very
-well.}
+solve all of them. But I don't do blind solving and FMC very well.}
 
 @item{An amateur MineCraft player, who mostly stays in creative mode.}
 
@@ -42,8 +42,9 @@ videos on my
 channel} or @hyperlink["https://depot.kdr2.com/josh/videos/"]{here}.
 
 I haven't learned to write articles yet, so my dad helped me write
-this page. My dad also wrote a few pages about me on this site, maybe
-you can find them under the 'essay' category.
+this page. My dad also wrote a few pages about me on
+@hyperlink["https://kdr2.com"]{his website}, maybe you can find them
+there.
 
 @section{Cubes in my collection}
 
@@ -57,7 +58,7 @@ Meffert's Gear Cube}
 
 @item{Square-0, Square-1, Square-2}
 
-@item{2x2x3, 2x2x4, Floppy Ghost}
+@item{2x2x3, 2x2x4, Floppy Ghost Cube}
 
 @item{Kilominx, Megaminx}
 
@@ -69,5 +70,24 @@ Meffert's Gear Cube}
 
 @item{@hyperlink["https://kdr2.com/essay/2209-force-cubes.html"]{Force
 cubes made by myself}}
+
+]
+
+@section{About this website}
+
+This website is built using scribble, the documentation tool of
+Racket. I choose this tool because that Racket (or Lisp) is one of my
+most favourite programming languages, and it's also the reason why
+this site is called @bold{Josh In Brackets}. You can find the source
+on
+@hyperlink["https://github.com/JoshInBrackets/JoshInBrackets"]{GitHub}.
+
+@subsection{Links}
+
+@itemlist[
+
+@item{@hyperlink["https://kdr2.com"]{Killian, my dad.}}
+
+@item{@hyperlink["https://jperm.net"]{JPerm, a great cuber.}}
 
 ]
