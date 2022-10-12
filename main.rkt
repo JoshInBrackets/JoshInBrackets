@@ -3,8 +3,13 @@
 (require scribble/core)
 (require scribble/html-properties)
 
-(provide jib-image)
+(provide file-content jib-image favicon)
 
+;; text
+(define (file-content path)
+  (string-join (file->lines path) "\n"))
+
+;; images
 (define (cloudinary-url width path)
   (if width
       ;; https://res.cloudinary.com/kdr2/image/upload/c_scale,w_
@@ -33,3 +38,11 @@
                        (make-attributes `((href . ,link)
                                           (target . "_blank")))))
      (jib-image-no-link width path))))
+
+
+(define favicon (make-style
+                 'favicon
+                 (list (head-extra
+                        '(link ([rel "shortcut icon"]
+                                [type "image/png"]
+                                [href "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/jib-favicon.png"]))))))

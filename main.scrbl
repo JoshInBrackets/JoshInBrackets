@@ -1,9 +1,8 @@
 #lang scribble/manual
 
-@(require racket)
 @(require "main.rkt")
 
-@title[#:style '(toc)]{[Josh]}
+@title[#:style favicon]{[Josh]}
 
 Hi, I'm Josh (Zhuo Shi). I was born in 2015. I am a pupil now, but my
 dad and myself don't see me just as a little boy and don't put any
@@ -30,10 +29,10 @@ solve all of them. But I don't do blind solving and FMC very well.}
 
 ]
 
-@codeblock[#:keep-lang-line? #f]{@string-join{@file->lines{me.rkt} @"\n"}}
+@codeblock[#:keep-lang-line? #f]{@file-content{me.rkt}}
 
 I also know some programming languages, like Racket, Haskell, Python,
-and Javascript. But I'm still on the way of
+Javascript, and C/C++. But I'm still on the way of
 learning. @hyperlink["https://kdr2.com/project/kittle-buffer.html"]{Kittle
 Buffer} was the first project on which I collabrated with my dad, I
 worked as a feature designer and tester in the process. We are also
@@ -54,7 +53,7 @@ there.
 @local-table-of-contents[]
 
 @;; ---------
-@section{Cubing}
+@section[#:style favicon]{Cubing}
 
 @subsection{Cubes in my collection}
 
@@ -83,8 +82,14 @@ cubes made by myself}}
 
 ]
 
+@subsection{Showcase}
+
+Super flip on 11x11:
+
+@jib-image[600]{joshinbrackets/cubing/2022-superflip-on-11x11.png}
+
 @;; ---------
-@section{About}
+@section[#:style favicon]{About}
 
 @subsection{About this site}
 
@@ -105,13 +110,27 @@ server} with the same ID. Or you can find me via my dad.
 
 @subsection{Links}
 
+Meta:
+
+
 @itemlist[
 
 @item{@hyperlink["https://github.com/JoshInBrackets"]{My Github}}
 
 @item{@hyperlink["https://kdr2.com"]{Killian, my dad.}}
 
+]
+
+Tools and Resources:
+
+@itemlist[
+
 @item{@hyperlink["https://www.geogebra.org/"]{GeoGebra}}
+
+@item{@hyperlink["https://www.desmos.com/"]{Desmos}}
+
+@item{@hyperlink["https://www.tutorialspoint.com/codingground.htm"]{Coding
+Ground}}
 
 @item{@hyperlink["https://mathantics.com/"]{MathAntics, Basic Math
 Videos and Worksheets}}
@@ -123,3 +142,22 @@ Videos and Worksheets}}
 @item{@hyperlink["https://minecraft.fandom.com/"]{Minecraft Wiki}}
 
 ]
+
+Documents:
+
+@itemlist[
+
+@item{@hyperlink["https://docs.racket-lang.org/"]{Racket Docs}}
+
+@item{@hyperlink["https://hackage.haskell.org/package/base"]{Haskell
+Base Lib}}
+
+@item{@hyperlink["https://docs.python.org/3/"]{Python Docs}}
+
+@item{@hyperlink["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"]{JavaScript
+Reference}}
+
+@item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
+
+@item{@hyperlink["https://maxima.sourceforge.io/docs/manual/maxima_toc.html"]{Maxima
+Manual}} ]
