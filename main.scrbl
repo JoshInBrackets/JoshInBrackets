@@ -53,6 +53,14 @@ there.
 @local-table-of-contents[]
 
 @;; ---------
+@section[#:style favicon]{Diary}
+
+2022.10.14, made my first live coding on Discord.
+
+2022.10.10, began to have online classes at home, because of another
+wave of Covid-19.
+
+@;; ---------
 @section[#:style favicon]{Cubing}
 
 @subsection{Cubes in my collection}
@@ -83,6 +91,10 @@ cubes made by myself}}
 ]
 
 @subsection{Showcase}
+
+Super flip on 3x7, 5x5, and 7x7:
+
+@jib-image[600]{joshinbrackets/cubing/superflip-on-357.png}
 
 Super flip on 11x11:
 
@@ -128,6 +140,8 @@ Tools and Resources:
 @item{@hyperlink["https://www.geogebra.org/"]{GeoGebra}}
 
 @item{@hyperlink["https://www.desmos.com/"]{Desmos}}
+
+@item{@hyperlink["https://code.visualstudio.com/docs"]{VS Code}}
 
 @item{@hyperlink["https://www.tutorialspoint.com/codingground.htm"]{Coding
 Ground}}
