@@ -3,6 +3,7 @@
 @(require "main.rkt")
 
 @title[#:style favicon]{Journal}
+2022.10.19, I started to use Habitica now.
 
 2022.10.14, made my first live coding on Discord.
 

@@ -38,6 +38,8 @@ Tools and Resources:
 
 @itemlist[
 
+@item{@hyperlink["https://habitica.com/"]{Habitica}}
+
 @item{@hyperlink["https://www.geogebra.org/"]{GeoGebra}}
 
 @item{@hyperlink["https://www.desmos.com/"]{Desmos}}
