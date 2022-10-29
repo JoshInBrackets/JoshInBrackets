@@ -76,5 +76,10 @@ Reference}}
 
 @item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
 
-@item{@hyperlink["https://maxima.sourceforge.io/docs/manual/maxima_toc.html"]{Maxima
-Manual}} ]
+@item{@hyperlink["https://www.wolfram.com/language/fast-introduction-for-math-students/en"]{Mathematica
+for Math}}
+
+@item{@hyperlink["https://reference.wolfram.com/language/"]{Wolfram
+Language}}
+
+]
