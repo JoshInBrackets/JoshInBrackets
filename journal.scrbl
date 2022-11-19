@@ -4,6 +4,11 @@
 
 @title[#:style favicon]{Journal}
 
+2022.11.19, started to read @italic{The Wind of The Willows}, Chinese
+Edition.
+
+2022.11.13, my dad bought me a pack of LEGO technic gears!
+
 2022.10.26, my dad bought me a mechanical keyboard!
 
 2022.10.26, my school is open again today, and I'm not very happy
