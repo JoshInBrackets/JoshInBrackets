@@ -4,6 +4,13 @@
 
 @title[#:style favicon]{Journal}
 
+2022.11.25, began to have online classes at home out of another wave
+of Covid-19, and my dad's code still hadn't turned green yet.
+
+2022.11.21, my dad's Cvoid-19 QR Code turned yellow (and sometimes
+rdiculously red), so I must stay at home instead of going to shcool
+from now on.
+
 2022.11.19, started to read @italic{The Wind of The Willows}, Chinese
 Edition.
 
