@@ -1,8 +1,15 @@
 #lang scribble/manual
 
-@(require "main.rkt")
+@(require "../rkt/main.rkt")
 
 @title[#:style favicon]{Journal}
+
+2022.12.02, lately, I play a lot of word puzzles, which are mostly
+wordle and its variants. My dad says I play too much in front of my
+computer, but I like them.
+
+2022.12.01, finally, I started to go to school today. But there are
+only two days before the coming weekend!
 
 2022.11.25, began to have online classes at home out of another wave
 of Covid-19, and my dad's code still hadn't turned green yet.

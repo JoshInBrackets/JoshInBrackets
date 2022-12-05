@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "main.rkt")
+@(require "../rkt/main.rkt")
 
 @title[#:style favicon]{Cubing}
 

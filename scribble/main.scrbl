@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "main.rkt")
+@(require "../rkt/main.rkt")
 
 @title[#:style favicon]{[Josh]}
 
@@ -29,7 +29,7 @@ solve all of them. But I don't do blind solving and FMC very well.}
 
 ]
 
-@codeblock[#:keep-lang-line? #f]{@file-content{me.rkt}}
+@codeblock[#:keep-lang-line? #f]{@file-content{rkt/me.rkt}}
 
 I also know some programming languages, like Racket, Haskell, Python,
 Javascript, and C/C++. But I'm still on the way of
@@ -54,5 +54,6 @@ there.
 
 @;; ---------
 @include-section{journal.scrbl}
+@include-section{math.scrbl}
 @include-section{cubing.scrbl}
 @include-section{about.scrbl}

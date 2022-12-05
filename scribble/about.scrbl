@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "main.rkt")
+@(require "../rkt/main.rkt")
 
 @title[#:style favicon]{About}
 
@@ -41,8 +41,6 @@ Tools and Resources:
 @item{@hyperlink["https://habitica.com/"]{Habitica}}
 
 @item{@hyperlink["https://www.geogebra.org/"]{GeoGebra}}
-
-@item{@hyperlink["https://www.desmos.com/"]{Desmos}}
 
 @item{@hyperlink["https://code.visualstudio.com/docs"]{VS Code}}
 
