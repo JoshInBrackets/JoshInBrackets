@@ -4,6 +4,9 @@
 
 @title[#:style favicon]{Journal}
 
+2022.12.30, My winter vacation starts today! And I am planning to
+learn Español and Deutsch this winter!
+
 2022.12.02, lately, I play a lot of word puzzles, which are mostly
 wordle and its variants. My dad says I play too much in front of my
 computer, but I like them.
