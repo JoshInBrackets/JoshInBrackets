@@ -25,12 +25,25 @@ server} with the same ID. Or you can find me via my dad.
 
 Meta:
 
-
 @itemlist[
 
 @item{@hyperlink["https://github.com/JoshInBrackets"]{My Github}}
 
 @item{@hyperlink["https://kdr2.com"]{Killian, my dad.}}
+
+]
+
+Dictionaries:
+
+@itemlist[
+
+@item{@hyperlink["https://www.dictionary.com/"]{Dictionary.com}}
+
+@item{@hyperlink["https://www.collinsdictionary.com/"]{Collins}}
+
+@item{@hyperlink["https://www.dict.cc/"]{Dict.cc}}
+
+@item{@hyperlink["https://en.wiktionary.org/"]{Wiktionary}}
 
 ]
 
