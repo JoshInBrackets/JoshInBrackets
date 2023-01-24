@@ -12,7 +12,8 @@
 
 @item{Super Cube, 4x4 Calendar Cube, Mirror Cube, Scewb, Maple Leaf
 Scewb, Super Ivy Cube, Fisher Cube, Windmill Cube, Qiyi Gear Cube,
-Meffert's Gear Cube, Barrel Sandwich Cube}
+Meffert's Gear Cube, Barrel Sandwich Cube, O2 cube, Redi Cube,
+Rediminx}
 
 @item{Square-0, Square-1, Square-2}
 
