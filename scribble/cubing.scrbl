@@ -19,7 +19,7 @@ Rediminx}
 
 @item{1x2x2, 1x3x3, 2x2x3, 2x2x4, 3x3x9, Floppy Ghost Cube}
 
-@item{Kilominx, Megaminx}
+@item{Kilominx, Megaminx, Gigaminx}
 
 @item{Mastermorphix, Pyraminx, Jing's Pyraminx, Clover Pyraminx}
 
