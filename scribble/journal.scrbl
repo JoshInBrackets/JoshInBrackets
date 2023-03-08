@@ -4,6 +4,12 @@
 
 @title[#:style favicon]{Journal}
 
+@section{What am I doing now}
+
+@what-am-i-doing{https://kdr2.pythonanywhere.com/m.js?channel_id=1082894429490257971}
+
+@section{Formal Journal}
+
 2022.12.30, My winter vacation starts today! And I am planning to
 learn Español and Deutsch this winter!
 

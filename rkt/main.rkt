@@ -3,7 +3,7 @@
 (require scribble/core)
 (require scribble/html-properties)
 
-(provide file-content jib-image favicon)
+(provide file-content jib-image favicon what-am-i-doing)
 
 ;; text
 (define (file-content path)
@@ -46,3 +46,19 @@
                         '(link ([rel "shortcut icon"]
                                 [type "image/png"]
                                 [href "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/jib-favicon.png"]))))))
+
+(define (what-am-i-doing link)
+  (make-element
+   (make-style #f
+               (list (make-alt-tag "div")))
+   (list
+    (make-element
+     (make-style #f
+                 (list (make-alt-tag "div")
+                       (make-attributes '((id . "idle-thoughts")))))
+     "")
+    (make-element
+     (make-style #f
+                 (list (make-alt-tag "script")
+                       (make-attributes `((src . ,link)))))
+     ""))))
