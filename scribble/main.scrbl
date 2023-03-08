@@ -19,7 +19,7 @@ I am:
 model everything in math.}
 
 @item{A bilingual (I speak Chinese and English), and I am trying to be
-a polyglot now: I'm learning Espanöl and Deutsch.}
+a polyglot now: I'm learning Español and Deutsch.}
 
 @item{An amateur real cuber - I had collected all the cubes used in
 WCA events (actually, much more than that) and got the ability to
