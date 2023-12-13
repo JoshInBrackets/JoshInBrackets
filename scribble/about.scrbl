@@ -51,8 +51,6 @@ Tools and Resources:
 
 @itemlist[
 
-@item{@hyperlink["https://habitica.com/"]{Habitica}}
-
 @item{@hyperlink["https://www.geogebra.org/"]{GeoGebra}}
 
 @item{@hyperlink["https://code.visualstudio.com/docs"]{VS Code}}
@@ -75,17 +73,17 @@ Documents:
 
 @itemlist[
 
+@item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
+
+@item{@hyperlink["https://docs.python.org/3/"]{Python Docs}}
+
 @item{@hyperlink["https://docs.racket-lang.org/"]{Racket Docs}}
 
 @item{@hyperlink["https://hackage.haskell.org/package/base"]{Haskell
 Base Lib}}
 
-@item{@hyperlink["https://docs.python.org/3/"]{Python Docs}}
-
 @item{@hyperlink["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"]{JavaScript
 Reference}}
-
-@item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
 
 @item{@hyperlink["https://www.wolfram.com/language/fast-introduction-for-math-students/en"]{Mathematica
 for Math}}
