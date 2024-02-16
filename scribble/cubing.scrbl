@@ -25,6 +25,8 @@ Rediminx, Penrose Cube}
 
 @item{Puppet cube #1, Puppet cube #2}
 
+@item{Shengshou Magic Pillar}
+
 @item{Rubik's Clock}
 
 @item{@hyperlink["https://kdr2.com/essay/2209-force-cubes.html"]{Force
@@ -34,7 +36,7 @@ cubes made by myself}}
 
 @section{Showcase}
 
-Super flip on 3x7, 5x5, and 7x7:
+Super flip on 3x3, 5x5, and 7x7:
 
 @jib-image[600]{joshinbrackets/cubing/superflip-on-357.png}
 
