@@ -4,6 +4,67 @@
 
 @title[#:style favicon]{About}
 
+This page shows things about me, my interests, and this site.
+
+@section{Mathematics}
+
+Besides mathematics for middle school, I am also studying higher
+mathematics like Caculus, Real Analysis, Discrete Mathematics, Linear
+Algebra, Statistics and Probability. GeoGebra and Mathematica are the
+tools I use the most when I learn math on my computer.
+
+@section{Cubing}
+
+Cubes in my collection:
+
+@itemlist[
+
+@item{Regular: 1x1, 2x2, 3x3, 4x4, 5x5, 6x6, 7x7, 11x11}
+
+@item{Super Cube, 4x4 Calendar Cube, Mirror Cube, Scewb, Maple Leaf
+Scewb, Super Ivy Cube, Fisher Cube, Windmill Cube, Qiyi Gear Cube,
+Meffert's Gear Cube, Barrel Sandwich Cube, O2 cube, Redi Cube,
+Rediminx, Penrose Cube}
+
+@item{Square-0, Square-1, Square-2}
+
+@item{1x2x2, 1x3x3, 2x2x3, 2x2x4, 3x3x9, Floppy Ghost Cube}
+
+@item{Kilominx, Megaminx, Gigaminx}
+
+@item{Mastermorphix, Pyraminx, Jing's Pyraminx, Clover Pyraminx}
+
+@item{Puppet cube #1, Puppet cube #2}
+
+@item{Shengshou Magic Pillar}
+
+@item{Rubik's Clock}
+
+@item{@hyperlink["https://kdr2.com/essay/2209-force-cubes.html"]{Force
+cubes made by myself}}
+
+]
+
+@section{Games I Play}
+
+@itemlist[
+
+@item{MineCraft}
+
+@item{@hyperlink["https://www.patricksparabox.com/"]{Patrick's Parabox}}
+
+@item{@hyperlink["https://www.euclidea.xyz/"]{Euclidea}}
+
+@item{@hyperlink["https://bcat112a.itch.io/squishcraft"]{SquishCraft}}
+
+@item{@hyperlink["https://lawatson.itch.io/i-wanna-lockpick"]{I Wanna Lockpick}}
+
+@item{@hyperlink["https://graphomata.com/"]{GraphoMata}}
+
+@item{BABA IS YOU}
+
+]
+
 @section{About this site}
 
 This website is built using scribble, the documentation tool of
@@ -35,17 +96,11 @@ Meta:
 
 Dictionaries:
 
-@itemlist[
+@hyperlink["https://www.dictionary.com/"]{Dictionary.com},
+@hyperlink["https://www.dict.cc/"]{Dict.cc},
+@hyperlink["https://www.collinsdictionary.com/"]{Collins},
+@hyperlink["https://en.wiktionary.org/"]{Wiktionary}.
 
-@item{@hyperlink["https://www.dictionary.com/"]{Dictionary.com}}
-
-@item{@hyperlink["https://www.collinsdictionary.com/"]{Collins}}
-
-@item{@hyperlink["https://www.dict.cc/"]{Dict.cc}}
-
-@item{@hyperlink["https://en.wiktionary.org/"]{Wiktionary}}
-
-]
 
 Tools and Resources:
 
@@ -58,11 +113,6 @@ Tools and Resources:
 @item{@hyperlink["https://www.tutorialspoint.com/codingground.htm"]{Coding
 Ground}}
 
-@item{@hyperlink["https://mathantics.com/"]{MathAntics, Basic Math
-Videos and Worksheets}}
-
-@item{@hyperlink["https://www.3blue1brown.com/"]{3Blue1Brown} }
-
 @item{@hyperlink["https://jperm.net"]{JPerm, a great cuber.}}
 
 @item{@hyperlink["https://minecraft.fandom.com/"]{Minecraft Wiki}}
@@ -72,23 +122,11 @@ Videos and Worksheets}}
 Documents:
 
 @itemlist[
-
-@item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
-
-@item{@hyperlink["https://docs.python.org/3/"]{Python Docs}}
-
 @item{@hyperlink["https://docs.racket-lang.org/"]{Racket Docs}}
-
-@item{@hyperlink["https://hackage.haskell.org/package/base"]{Haskell
-Base Lib}}
-
-@item{@hyperlink["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"]{JavaScript
-Reference}}
-
-@item{@hyperlink["https://www.wolfram.com/language/fast-introduction-for-math-students/en"]{Mathematica
-for Math}}
-
-@item{@hyperlink["https://reference.wolfram.com/language/"]{Wolfram
-Language}}
-
+@item{@hyperlink["https://reference.wolfram.com/language/"]{Wolfram Language}}
+@item{@hyperlink["https://www.wolfram.com/language/fast-introduction-for-math-students/en"]{Mathematica for Math}}
+@item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
+@item{@hyperlink["https://hackage.haskell.org/package/base"]{Haskell Base Lib}}
+@item{@hyperlink["https://docs.python.org/3/"]{Python Docs}}
+@item{@hyperlink["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"]{JavaScript Reference}}
 ]

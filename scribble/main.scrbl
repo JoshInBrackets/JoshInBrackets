@@ -53,8 +53,6 @@ there.
 @local-table-of-contents[]
 
 @;; ---------
-@include-section{journal.scrbl}
-@include-section{math.scrbl}
-@include-section{cubing.scrbl}
-@include-section{games.scrbl}
 @include-section{about.scrbl}
+@include-section{journal.scrbl}
+@include-section{articles.scrbl}
