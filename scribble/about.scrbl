@@ -85,13 +85,9 @@ server} with the same ID. Or you can find me via my dad.
 @section{Links}
 
 Meta:
-
 @itemlist[
-
 @item{@hyperlink["https://github.com/JoshInBrackets"]{My Github}}
-
-@item{@hyperlink["https://kdr2.com"]{Killian, my dad.}}
-
+@item{@hyperlink["https://kdr2.com"]{Killian(my dad)}}
 ]
 
 Dictionaries:
@@ -101,26 +97,16 @@ Dictionaries:
 @hyperlink["https://www.collinsdictionary.com/"]{Collins},
 @hyperlink["https://en.wiktionary.org/"]{Wiktionary}.
 
-
 Tools and Resources:
-
 @itemlist[
-
 @item{@hyperlink["https://www.geogebra.org/"]{GeoGebra}}
-
 @item{@hyperlink["https://code.visualstudio.com/docs"]{VS Code}}
-
-@item{@hyperlink["https://www.tutorialspoint.com/codingground.htm"]{Coding
-Ground}}
-
+@item{@hyperlink["https://www.tutorialspoint.com/codingground.htm"]{Coding Ground}}
 @item{@hyperlink["https://jperm.net"]{JPerm, a great cuber.}}
-
 @item{@hyperlink["https://minecraft.fandom.com/"]{Minecraft Wiki}}
-
 ]
 
 Documents:
-
 @itemlist[
 @item{@hyperlink["https://docs.racket-lang.org/"]{Racket Docs}}
 @item{@hyperlink["https://reference.wolfram.com/language/"]{Wolfram Language}}
