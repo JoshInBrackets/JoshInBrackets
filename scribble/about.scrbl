@@ -108,11 +108,10 @@ Tools and Resources:
 
 Documents:
 @itemlist[
-@item{@hyperlink["https://docs.racket-lang.org/"]{Racket Docs}}
 @item{@hyperlink["https://reference.wolfram.com/language/"]{Wolfram Language}}
 @item{@hyperlink["https://www.wolfram.com/language/fast-introduction-for-math-students/en"]{Mathematica for Math}}
-@item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
 @item{@hyperlink["https://hackage.haskell.org/package/base"]{Haskell Base Lib}}
+@item{@hyperlink["https://docs.racket-lang.org/"]{Racket Docs}}
+@item{@hyperlink["https://en.cppreference.com/w/"]{C++ Reference}}
 @item{@hyperlink["https://docs.python.org/3/"]{Python Docs}}
-@item{@hyperlink["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"]{JavaScript Reference}}
 ]
