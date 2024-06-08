@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "../rkt/main.rkt")
+@(require "../src/main.rkt")
 
 @title[#:style favicon]{[Josh]}
 
@@ -9,7 +9,7 @@ dad and myself don't see me just as a little boy and don't put any
 restriction upon my learning, so we have learned a lot of things
 together.
 
-@jib-image[300]{img-kdr2-com/main/josh-2022.jpg}
+@ext-image[300]{img-kdr2-com/main/josh-2022.jpg}
 
 I am:
 
@@ -32,7 +32,7 @@ solve all of them. But I don't do blind solving and FMC very well.}
 
 ]
 
-@codeblock[#:keep-lang-line? #f]{@file-content{rkt/me.rkt}}
+@codeblock[#:keep-lang-line? #f]{@file-content{src/me.rkt}}
 
 I also know some programming languages, like Wolfram
 Language(Mathematica), Haskell, Racket, C++, and Python. But I'm still

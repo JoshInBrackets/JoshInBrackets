@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "../rkt/main.rkt")
+@(require "../src/main.rkt")
 
 @title[#:style favicon]{About}
 
@@ -75,7 +75,7 @@ of this site on
 @hyperlink["https://github.com/JoshInBrackets/JoshInBrackets"]{GitHub}. You
 can share this site with the QR code below easily:
 
-@jib-image[150]{img-kdr2-com/main/joshinbrackets-com-qr.png}
+@ext-image[150]{img-kdr2-com/main/joshinbrackets-com-qr.png}
 
 @subsection{How to contact me}
 
