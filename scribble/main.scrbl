@@ -2,7 +2,7 @@
 
 @(require "../src/main.rkt")
 
-@title[#:style favicon]{[Josh]}
+@title[#:style custom-style]{[Josh]}
 
 Hi, I'm Josh (Zhuo Shi). I was born in 2015. I am a pupil now, but my
 dad and myself don't see me just as a little boy and don't put any

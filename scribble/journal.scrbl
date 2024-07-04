@@ -2,7 +2,7 @@
 
 @(require "../src/main.rkt")
 
-@title[#:style favicon]{Journal}
+@title[#:style custom-style #:tag "journal"]{Journal}
 
 @section{What am I doing now}
 

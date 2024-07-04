@@ -2,6 +2,6 @@
 
 @(require "../src/main.rkt")
 
-@title[#:style favicon]{Articles}
+@title[#:style custom-style #:tag "articles"]{Articles}
 
 @include-section{articles/cubing-superflip.scrbl}

@@ -2,7 +2,7 @@
 
 @(require "../src/main.rkt")
 
-@title[#:style favicon]{About}
+@title[#:style custom-style #:tag "about"]{About}
 
 This page shows things about me, my interests, and this site.
 

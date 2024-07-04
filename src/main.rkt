@@ -6,17 +6,22 @@
 (require markdown)
 (require markdown/scrib)
 
-(provide favicon div script icode cblock
+(provide custom-style div script icode cblock
          md file-content ext-image)
 
+;; config is defined in config.rkt
+(require "config.rkt")
+
 ;; basic elements
-(define favicon-url "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/jib-favicon.png")
-(define favicon (make-style
-                 'favicon
-                 (list (head-extra
-                        `(link ([rel "shortcut icon"]
-                                [type "image/png"]
-                                [href ,favicon-url]))))))
+(define custom-style (make-style
+                      'custom-style
+                      (list (head-extra
+                             `(link ([rel "shortcut icon"]
+                                     [type "image/png"]
+                                     [href ,(hash-ref config 'favicon-url)])))
+                            (head-extra
+                             `(script ([type "text/x-mathjax-config"])
+                                      ,(hash-ref config 'mathjax-config))))))
 
 (define (div id)
   (make-element
