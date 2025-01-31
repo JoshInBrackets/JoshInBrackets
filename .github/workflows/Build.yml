@@ -36,3 +36,11 @@ jobs:
           branch: pages
           clean: true
           force: true
+      - name: Publish to another repo
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.KD_GH_TOKEN }}
+          folder: output/main
+          repository-name: KDr2/killianz.com
+          branch: JoshInBrackets
+          clean: true
