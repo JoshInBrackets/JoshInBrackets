@@ -44,4 +44,4 @@ about going to school.
 2022.10.10, began to have online classes at home, because of another
 wave of Covid-19.
 
-@script{https://kdr2.pythonanywhere.com/m.js?channel_id=1082894429490257971&element_id=whims}
+@script{https://kdr2.pythonanywhere.com/m.js?discord_cid=1082894429490257971&reddit_sub=none&element_id=whims}
