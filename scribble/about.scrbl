@@ -6,14 +6,14 @@
 
 This page shows things about me, my interests, and this site.
 
-@section{Mathematics}
+@section[#:tag "math"]{Mathematics}
 
 Besides mathematics for middle school, I am also studying higher
 mathematics like Caculus, Real Analysis, Discrete Mathematics, Linear
 Algebra, Statistics and Probability. GeoGebra and Mathematica are the
 tools I use the most when I learn math on my computer.
 
-@section{Cubing}
+@section[#:tag "cubing"]{Cubing}
 
 Cubes in my collection:
 
@@ -40,12 +40,11 @@ Rediminx, Penrose Cube}
 
 @item{Rubik's Clock}
 
-@item{@hyperlink["https://kdr2.com/essay/2209-force-cubes.html"]{Force
-cubes made by myself}}
+@item{@secref["force-cubes"]}
 
 ]
 
-@section{Games I Play}
+@section[#:tag "games"]{Games I Play}
 
 @itemlist[
 
@@ -65,7 +64,7 @@ cubes made by myself}}
 
 ]
 
-@section{About this site}
+@section[#:style 'quiet]{About this site}
 
 This website is built using scribble, the documentation tool of
 Racket. I choose this tool because that Racket (or Lisp) is one of my
@@ -87,7 +86,7 @@ server} with the same ID. Or you can find me via my dad.
 Meta:
 @itemlist[
 @item{@hyperlink["https://github.com/JoshInBrackets"]{My Github}}
-@item{@hyperlink["https://kdr2.com"]{Killian(my dad)}}
+@item{@hyperlink["https://killianz.com"]{Killian(my dad)}}
 ]
 
 Dictionaries:

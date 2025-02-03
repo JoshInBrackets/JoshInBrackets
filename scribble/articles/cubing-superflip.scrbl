@@ -2,7 +2,7 @@
 
 @(require "../../src/main.rkt")
 
-@title[#:style custom-style]{Cubing Showcases: Super flip}
+@title[#:style custom-style #:tag "cube-super-flip"]{Cubing Showcases: Super flip}
 
 Super flip on 3x3, 5x5, and 7x7:
 
