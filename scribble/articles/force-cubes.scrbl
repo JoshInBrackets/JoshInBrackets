@@ -73,6 +73,4 @@ Other Cubes:
 
 @ext-image[300]{img-kdr2-com/2022/09/fc-checkerboard-sandwiches-small.jpg}
 
-That's pretty much it, by the way, Josh has a big collection of cubes
-which is listed on @hyperlink["https://joshinbrackets.com"]{his
-website}.
+That's pretty much it, thank you.

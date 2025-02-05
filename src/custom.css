@@ -20,6 +20,10 @@
     border-left: 1px solid #5454e1;
 }
 
+.tocviewlist table {
+    width: fit-content;
+}
+
 ul, ol {
     margin: 0 0 1em 0;
 }
@@ -29,7 +33,7 @@ li p {
 }
 
 code {
-    display: inline-block;
+    display: inline;
     background-color: #e7edf3;
     padding: 1px 5px;
     border-radius: 3px;

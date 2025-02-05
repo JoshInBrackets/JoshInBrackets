@@ -1,7 +1,22 @@
 #!/bin/bash
-scribble --dest output ++style src/custom.css --htmls scribble/main.scrbl
+
+# use .exe or not
+which racket.exe > /dev/null
+if [[ $? -eq 0 ]]; then
+    EXT=.exe
+else
+    EXT=
+fi
+
+scribble$EXT --dest output ++style src/custom.css --htmls scribble/main.scrbl
 
 if [[ "$1" == "sync" ]]; then
-   BASENAME=`dirname $0`
-   rsync -avr $BASENAME/output/main/ kdr2@kdr2.com:~/joshinbrackets/
+    cat <<EOF
+
+[WARNING]
+Since GitHub Action has been setup, we don't synchronize the output with
+this script, if it is really needed, please run the command below:
+
+EOF
+   echo rsync -avr output/main/ kdr2@kdr2.com:~/joshinbrackets/
 fi
